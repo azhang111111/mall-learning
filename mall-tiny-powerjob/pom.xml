@@ -85,7 +85,7 @@
         <dependency>
             <groupId>com.github.kfcfans</groupId>
             <artifactId>powerjob-worker-spring-boot-starter</artifactId>
-            <version>3.2.3</version>
+            <version>3.4.8</version>
         </dependency>
     </dependencies>
 

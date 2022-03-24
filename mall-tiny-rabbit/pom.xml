@@ -55,7 +55,7 @@
         <dependency>
             <groupId>cn.hutool</groupId>
             <artifactId>hutool-all</artifactId>
-            <version>4.6.3</version>
+            <version>4.6.17</version>
         </dependency>
         <!--Spring AMQP依赖-->
         <dependency>
